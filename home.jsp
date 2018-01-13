@@ -104,7 +104,7 @@ color: white;}
 }
 
 .thing:hover {
-  //-webkit-transform: rotate(-360deg);
+  -webkit-transform: rotate(-360deg);
 }
 
 p {
