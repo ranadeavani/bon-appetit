@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://webgradients.com/public/webgradients_png/076%20Premium%20Dark.png");
+	color:white;
+
+	}
+p {
+    font-family:"Bradley Hand ITC";
+        
+        color: whitesmoke;
+        font-size: 30px;
+	 
+}
+from {background-color: red;}
+    to {background-color: blue;}
+
